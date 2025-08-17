@@ -1,0 +1,5 @@
+{
+  "name": "Optimizador de Turnos de Almacén",
+  "description": "Una aplicación interactiva para modelar y optimizar la asignación de personal en turnos de almacén, con recomendaciones de IA para equilibrar la carga de trabajo.",
+  "requestFramePermissions": []
+}
